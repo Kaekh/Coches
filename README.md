@@ -1,2 +1,0 @@
-# Coches
-Proyecto videojuegos
